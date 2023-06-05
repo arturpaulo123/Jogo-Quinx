@@ -1,0 +1,25 @@
+C:\Users\Artur_Estudos\Documents\Visual Studio 2015\Aulas-de-C#\Jogo Quinx\Jogo Quinx\bin\Debug\Jogo Quinx.exe.config
+C:\Users\Artur_Estudos\Documents\Visual Studio 2015\Aulas-de-C#\Jogo Quinx\Jogo Quinx\obj\Debug\Jogo Quinx.csprojResolveAssemblyReference.cache
+C:\Users\Artur_Estudos\Documents\Visual Studio 2015\Aulas-de-C#\Jogo Quinx\Jogo Quinx\obj\Debug\Jogo_Quinx.Form1.resources
+C:\Users\Artur_Estudos\Documents\Visual Studio 2015\Aulas-de-C#\Jogo Quinx\Jogo Quinx\obj\Debug\Jogo_Quinx.Properties.Resources.resources
+C:\Users\Artur_Estudos\Documents\Visual Studio 2015\Aulas-de-C#\Jogo Quinx\Jogo Quinx\obj\Debug\Jogo Quinx.csproj.GenerateResource.Cache
+C:\Users\Artur_Estudos\Documents\Visual Studio 2015\Aulas-de-C#\Jogo Quinx\Jogo Quinx\bin\Debug\Jogo Quinx.exe
+C:\Users\Artur_Estudos\Documents\Visual Studio 2015\Aulas-de-C#\Jogo Quinx\Jogo Quinx\bin\Debug\Jogo Quinx.pdb
+C:\Users\Artur_Estudos\Documents\Visual Studio 2015\Aulas-de-C#\Jogo Quinx\Jogo Quinx\obj\Debug\Jogo Quinx.exe
+C:\Users\Artur_Estudos\Documents\Visual Studio 2015\Aulas-de-C#\Jogo Quinx\Jogo Quinx\obj\Debug\Jogo Quinx.pdb
+C:\Users\Artur_Estudos\Documents\Visual Studio 2015\Aulas-de-C#\Jogo Quinx\Jogo Quinx\obj\Debug\Jogo_Quinx.Form2.resources
+C:\Users\Artur_Estudos\Documents\Visual Studio 2015\Aulas-de-C#\Jogo Quinx\Jogo Quinx\obj\Debug\Jogo_Quinx.Form3.resources
+C:\Users\Artur_Estudos\Documents\Visual Studio 2015\Aulas-de-C#\Jogo Quinx\Jogo Quinx\obj\Debug\Jogo_Quinx.Form4.resources
+C:\Users\Artur_Estudos\Documents\Visual Studio 2015\Aulas-de-C#\Jogo Quinx\Jogo Quinx\obj\Debug\Jogo_Quinx.Form5.resources
+C:\Users\Artur_Estudos\Documents\Visual Studio 2015\Aulas-de-C#\Jogo Quinx\Jogo Quinx\obj\Debug\Jogo_Quinx.Form6.resources
+C:\Users\Artur_Estudos\Documents\Visual Studio 2015\Aulas-de-C#\Jogo Quinx\Jogo Quinx\obj\Debug\Jogo_Quinx.Form7.resources
+C:\Users\Artur_Estudos\Documents\Visual Studio 2015\Aulas-de-C#\Jogo Quinx\Jogo Quinx\obj\Debug\Jogo_Quinx.Form8.resources
+C:\Users\Artur_Estudos\Documents\Visual Studio 2015\Aulas-de-C#\Jogo Quinx\Jogo Quinx\obj\Debug\Jogo_Quinx.Form9.resources
+C:\Users\Artur_Estudos\Documents\Visual Studio 2015\Aulas-de-C#\Jogo Quinx\Jogo Quinx\obj\Debug\Jogo_Quinx.Form10.resources
+C:\Users\Artur_Estudos\Documents\Visual Studio 2015\Aulas-de-C#\Jogo Quinx\Jogo Quinx\obj\Debug\Jogo_Quinx.Form11.resources
+C:\Users\Artur_Estudos\Documents\Visual Studio 2015\Aulas-de-C#\Jogo Quinx\Jogo Quinx\obj\Debug\Jogo_Quinx.Form12.resources
+C:\Users\Artur_Estudos\Documents\Visual Studio 2015\Aulas-de-C#\Jogo Quinx\Jogo Quinx\obj\Debug\Jogo_Quinx.Form13.resources
+C:\Users\Artur_Estudos\Documents\Visual Studio 2015\Aulas-de-C#\Jogo Quinx\Jogo Quinx\obj\Debug\Jogo_Quinx.Form14.resources
+C:\Users\Artur_Estudos\Documents\Visual Studio 2015\Aulas-de-C#\Jogo Quinx\Jogo Quinx\obj\Debug\Jogo_Quinx.Form15.resources
+C:\Users\Artur_Estudos\Documents\Visual Studio 2015\Aulas-de-C#\Jogo Quinx\Jogo Quinx\obj\Debug\Jogo_Quinx.Form16.resources
+C:\Users\Artur_Estudos\Documents\Visual Studio 2015\Aulas-de-C#\Jogo Quinx\Jogo Quinx\obj\Debug\Jogo_Quinx.Form17.resources
